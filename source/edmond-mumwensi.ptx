@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xml:id="section-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>My First Section</title>
+<section xml:id="edmond-mumwensi.ptx" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Reflection</title>
   <introduction>
-    <p>Here's a little information about me.</p>
+    <p>Here are a few things I learned in class that I found helpful or relevant.</p>
   </introduction>
-  <p>Add more lines like this to fill out the bio. Each <c>&lt;p&gt;</c>
+  <p>Add more lines like this to fill out the reflection. Each <c>&lt;p&gt;</c>
   tag surrounds a paragraph.</p>
 </section>
