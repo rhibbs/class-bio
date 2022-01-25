@@ -4,8 +4,8 @@
     <macros>\newcommand{\foo}{b^{ar}}</macros>
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
-  <article xml:id="class-bio">
-    <title>Class Bios</title>
+  <article xml:id="class-reflections">
+    <title>Class Reflections</title>
     <!-- <xi:include href="./muthana-alhadrab.ptx" /> -->
     <!-- <xi:include href="./zeko-alsamarai.ptx" /> -->
     <!-- <xi:include href="./ryan-barnard.ptx" /> -->
