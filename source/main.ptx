@@ -7,7 +7,7 @@
   <article xml:id="class-bio">
     <title>Class Bios</title>
     <!-- <xi:include href="./muthana-alhadrab.ptx" /> -->
-    <!-- <xi:include href="./zeko-alsamarai.ptx" /> -->
+    <xi:include href="./zeko-alsamarai.ptx" />
     <!-- <xi:include href="./ryan-barnard.ptx" /> -->
     <!-- <xi:include href="./thomas-bartlett.ptx" /> -->
     <!-- <xi:include href="./loi-ha.ptx" /> -->
