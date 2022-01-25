@@ -1,4 +1,3 @@
-# My Great Article
+# Class bios
 
-TODO this should have some simple build information
-and/or a link to documentation
+Sample repository for CSC-490.
