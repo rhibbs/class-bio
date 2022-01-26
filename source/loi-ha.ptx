@@ -3,6 +3,7 @@
   <title>My First Section</title>
   <introduction>
     <p>Here's a little information about me.</p>
+    <p>Every human being that I dont know on a personal level is NPC.</p>
   </introduction>
   <p>Add more lines like this to fill out the bio. Each <c>&lt;p&gt;</c>
   tag surrounds a paragraph.</p>
