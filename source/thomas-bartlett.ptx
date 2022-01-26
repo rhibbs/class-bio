@@ -4,6 +4,7 @@
   <introduction>
     <p>Here's a little information about me.</p>
   </introduction>
-  <p>Add more lines like this to fill out the bio. Each <c>&lt;p&gt;</c>
-  tag surrounds a paragraph.</p>
+  <p>I am a senior and a computer science major.</p>
+  <p>I have very little experience with XML. </p>
+  <p>I generally code in C++ and Python. </p>
 </section>

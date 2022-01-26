@@ -1,9 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xml:id="section-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>My First Section</title>
+  <title>Ryan Barnard</title>
   <introduction>
-    <p>Here's a little information about me.</p>
+    <p>I am a computer science student and member of the swim team at The College of Idaho</p>
   </introduction>
-  <p>Add more lines like this to fill out the bio. Each <c>&lt;p&gt;</c>
-  tag surrounds a paragraph.</p>
+  <p>I am from Pendleton, OR, a small town in eastern Oregon. I grew up playing many sports but swimming
+  ended up being the one that I enjoyed the most.</p>
+  <p>I initally came to The College of Idaho with the intention to study math-physics and eventually go to graduate school
+  for mechanical engineering, but I ended up really enjoying a computer science class that I had to take and now I am a computer
+  science major.</p>
 </section>

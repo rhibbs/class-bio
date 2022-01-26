@@ -7,20 +7,20 @@
   <article xml:id="class-bio">
     <title>Class Bios</title>
     <!-- <xi:include href="./muthana-alhadrab.ptx" /> -->
-    <!-- <xi:include href="./zeko-alsamarai.ptx" /> -->
-    <!-- <xi:include href="./ryan-barnard.ptx" /> -->
-    <!-- <xi:include href="./thomas-bartlett.ptx" /> -->
-    <!-- <xi:include href="./loi-ha.ptx" /> -->
+    <xi:include href="./zeko-alsamarai.ptx" />
+    <xi:include href="./ryan-barnard.ptx" />
+    <xi:include href="./thomas-bartlett.ptx" />
+    <xi:include href="./loi-ha.ptx" />
     <!-- <xi:include href="./ben-hansen.ptx" /> -->
     <!-- <xi:include href="./keegan-hegel.ptx" /> -->
      <xi:include href="./ryan-hibbs.ptx" /> 
     <!-- <xi:include href="./bezawit-kassaye.ptx" /> -->
-    <!-- <xi:include href="./jack-kincaid.ptx" /> -->
+     <xi:include href="./jack-kincaid.ptx" /> 
     <!-- <xi:include href="./alec-kuzmack.ptx" /> -->
-    <!-- <xi:include href="./brian-mann.ptx" /> -->
-    <!-- <xi:include href="./berint-moffet.ptx" /> -->
+    <xi:include href="./brian-mann.ptx" /> 
+    <xi:include href="./berint-moffet.ptx" />
     <!-- <xi:include href="./edmond-mumwensi.ptx" /> -->
-    <!-- <xi:include href="./fernando-romero.ptx" /> -->
-    <!-- <xi:include href="./makenzie-stapley.ptx" /> -->
+    <xi:include href="./fernando-romero.ptx" />
+    <xi:include href="./makenzie-stapley.ptx" />
   </article>
 </pretext>
