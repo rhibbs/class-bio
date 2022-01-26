@@ -20,7 +20,7 @@
     <!-- <xi:include href="./brian-mann.ptx" /> -->
     <xi:include href="./berint-moffet.ptx" />
     <!-- <xi:include href="./edmond-mumwensi.ptx" /> -->
-    <!-- <xi:include href="./fernando-romero.ptx" /> -->
+    <xi:include href="./fernando-romero.ptx" />
     <xi:include href="./makenzie-stapley.ptx" />
   </article>
 </pretext>
